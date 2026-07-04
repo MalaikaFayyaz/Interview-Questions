@@ -1,24 +1,24 @@
 # Company Name – Interview Round
 
-**Date:**
-**Role:**
-**Interview Type:**
-**Duration:**
-**Difficulty:**
+Date:           <br>
+Role:           <br>
+Interview Type: <br>
+Duration:       <br>
+Difficulty:     <br>
 
 
-### Question 01
+### Q1. 
 
-### My Answer (Optional)
+My Answer: (Optional)
 
-### Notes
+Notes:
 
 ---
 
 ## Overall Takeaways
 
-### What went well
+What went well:  <br>
 
-### What to improve
+What to improve:  <br>
 
-### Advice for future candidates
+Advice for future candidates: <br>
