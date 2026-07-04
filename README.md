@@ -10,7 +10,7 @@ Instead of wondering what an interview might look like, students can learn from 
 
 ---
 
-## 📚 Repository Structure
+### 📚 Repository Structure
 
 Each company has its own Markdown file containing:
 
@@ -34,7 +34,7 @@ Interview-Questions/
 
 ---
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions are always welcome!
 
@@ -43,7 +43,7 @@ If you've interviewed for an internship or an entry-level software role, conside
 To contribute:
 
 1. Fork this repository.
-2. Create a new Markdown file using `TEMPLATE.md`.
+2. Create a new Markdown file using `Template.md`.
 3. Name the file using the format `<CompanyName>_<InterviewType>.md` (for example, `Tkxel_AI_Screening_Interview.md`).
 4. Fill in your interview experience.
 5. Open a Pull Request.
@@ -54,7 +54,7 @@ Even a single interview experience can help someone else prepare.
 
 ---
 
-## 📌 Contribution Guidelines
+### 📌 Contribution Guidelines
 
 Please:
 
@@ -73,7 +73,7 @@ Please **do not**:
 
 ---
 
-## 💡 Why This Repository?
+### 💡 Why This Repository?
 
 Preparing for interviews is difficult when you don't know what to expect.
 
@@ -87,7 +87,7 @@ By sharing interview experiences, we can build a resource that helps students:
 
 ---
 
-## ⭐ Support the Project
+### ⭐ Support the Project
 
 If you find this repository helpful:
 
