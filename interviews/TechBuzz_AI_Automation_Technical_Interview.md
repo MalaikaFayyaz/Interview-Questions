@@ -1,94 +1,186 @@
-# Tech Buzz - AI Automation & ML
+# Tech Buzz – AI Automation & ML
+
+**Date:** 7 July 2026  
+**Role:** Internee  
+**Interview:** Technical  
+**No. of Questions:** 15  
+**Duration:** 20 minutes  
+**Difficulty:** Medium
+
+---
+
+# Part A — Resume Analysis
+
+#### Q1. Introduction
+
+---
+
+#### Q2. Which is your favorite project? Explain it briefly.
+
+---
+
+#### Q3. You know the MERN Stack too (based on your resume). Explain the HTTP methods used for API operations.
+
+**My Answer:**
+- GET
+- POST
+- DELETE
+
+>   Missed:
+> - PUT
+> - PATCH
+
+---
+
+#### Q4. You mentioned integrating LLMs. Explain how you integrated them.
+
+- ✅ Answered
+
+---
+
+#### Q5. Most of your experience seems to be in Web Development. Why are you applying for an AI internship?
 
 
-Date:		  7 July 2026<br>
-Role:		  Internee<br>
-Interview :       Technical<br>
-No.of Questions:  15<br>
-Duration: 	  20 minutes<br>
-Difficulty:       Medium<br>
+-  Yapped
 
-<br>
+---
 
-#### Q.1 : __Introduction__
-                                              Part A : Resume Analysis 
+# Part B — AI & System Design
 
-#### Q.2 : Which is your favorite among the projects..explain them briefly
+#### Q6. What is the difference between AI, Machine Learning, Generative AI, and Prompt Engineering?
 
+- ✅ Answered
 
-#### Q.3 : So you know about MERN Stack too(My Resume projects were web dev oriented)...Explain Methods for API Operations.
-~ Answered (I could only remember GET,POST,DELETE)
+---
 
+#### Q7. Do you know what APIs and Webhooks are?
 
-#### Q.4 : You integrated LLM as mentioned,explain them
-~ Answered
+**My Answer:**
+- Explained APIs only.
 
-#### Q.5 : Most of your interest seems like in Web Development....why are you applying for AI Intership then ? 
-~ Yapped
+---
 
-					
-                                  			   Part B : AI & Test Cases  
+#### Q8. Suppose a user requests AI-generated content through your application, but the LLM/API fails. What strategy would you use?
 
+**My Answer:**
+- Initialize a timeout.
 
-#### Q.6: Whats the difference between AI,ML,Generative AI? Also Prompt Engineering!
-~ Answered
+#### Follow-up
 
-#### Q.7: Do you know what an API/Webhooks are?
-~ Answered APIS
- 
-#### Q.8: Imagine a user asks for content generation from Your integrated AI/LLM ...What if Your API fails...what would be your strategy or solution
+> Content generation may take a few seconds for some requests but up to **30 minutes** for others.
+>
+> Wouldn't your timeout strategy fail?
 
-~ Answered (Initialize Timeout).
+**My Answer:**
+-  No answer
 
-#### But content generation may take variable time for each response (upto 30 minutes in some cases and few seconds in other)..Would'nt your strategy fail?
+---
 
-~ No Answer 
+#### Q9. Imagine a client wants AI automation for an e-commerce website.
 
-#### Q.9: Imagine a client wants AI Automation for his e-commerce website so that when a user places the order,the AI should itself generate a summary of the order specifications;modifies the database and inform owner and manager through some notification...whats your workflow/proposed solution)
-~ Yapped   
+### Requirement
 
-		                                  	   Part C : OOP & DSA  
+When a customer places an order:
 
-#### Q.10: What is OOP?What are the four pillars?Explain each of them.
-~ Answered
+- Generate an AI summary of the order
+- Update the database
+- Notify the owner
+- Notify the manager
 
-#### Q.11: Can you find example of Abstraction in this room?
-~ Answered(The switch behind you; i just press the button and the fan rotates..idk whats happening behind the backend) 
-* Appreciated
+Explain your proposed workflow.
 
-#### Q.12: Do you know about the diamond problem?
-~ Answered NO
+**My Answer:**
+- Yapped
 
-#### Q.13: What did you study in DSA? What are the types of Linked List? What happens in circular linked list?
-~ Answered
+---
 
-#### Q.14: How do you insert a node at the end of linked list?
-~ Explained
+# Part C — OOP & DSA
 
-#### Q.15: Imagine a array : 
-#### [ 2,3,6,0,4,0,2,5,0,]
-#### Can you write a pseudocode so that all the zeros goes to the right side of the array?
-<br>
-Solved ( One by using extra vector and One by swapping within the same array on request for optimal way).
-<br><br>
->br>
+#### Q10. What is OOP?
 
+Explain its four pillars.
 
-## Overall Takeaways
+- ✅ Answered
 
-What went well:
+---
 
- * Programming portion
+#### Q11. Can you find an example of Abstraction in this room?
 
-What to improve:
+**My Answer:**
 
- * Defending your resume
- * Donot prepare a single resume to apply in all domains.
+> The switch behind you.
+>
+> I simply press the switch and the fan starts rotating.
+> I don't know what happens internally—that complexity is hidden from me.
 
-Preparation Tips:
-  
- * 90 MIN OOP Course by freeCodeCamp.org 
- * DSA & Linked List Questions on GeekforGeek 
+**Interviewer Response:**
+-  Appreciated
 
+---
 
-     
+#### Q12. Do you know about the Diamond Problem?
+
+**My Answer:**
+- No
+
+---
+
+#### Q13. What topics did you study in DSA?
+
+- Types of Linked Lists
+- What happens in a Circular Linked List?
+
+**My Answer:**
+- Answered
+
+---
+
+#### Q14. How do you insert a node at the end of a Linked List?
+
+- ✅ Explained
+
+---
+
+#### Q15. Pseudocode Question
+
+Given the array:
+
+```text
+[2, 3, 6, 0, 4, 0, 2, 5, 0]
+```
+
+Move all the zeros to the right side.
+
+**My Answer:**
+
+- Solution using an extra vector
+- Optimal in-place swapping approach (after interviewer requested a better solution)
+
+---
+
+# Overall Takeaways
+
+##  What Went Well
+
+- Programming / DSA portion
+- OOP fundamentals
+- Problem-solving approach
+
+---
+
+##  What to Improve
+
+- Defending every point on your resume
+- Tailor your resume according to the role instead of using the same resume everywhere
+- Learn Webhooks and asynchronous AI workflows
+- Prepare common backend/API interview questions
+
+---
+
+# Preparation Tips
+
+- **90-Minute OOP Course** — freeCodeCamp.org
+- **Linked List Questions** — GeeksforGeeks
+- Practice API design, Webhooks, and AI workflow questions
+- Review HTTP methods (`GET`, `POST`, `PUT`, `PATCH`, `DELETE`)
+- Prepare concise explanations for every project listed on your resume
