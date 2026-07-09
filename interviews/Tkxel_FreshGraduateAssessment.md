@@ -18,9 +18,8 @@ My Answer: Two-parameter constructor.
 
 Notes:
 
-Constructor overloading.
-
-Exact parameter matching determines which constructor is invoked.
+* Constructor overloading.
+* Exact parameter matching determines which constructor is invoked.
 
 ### Q2. Default Constructor
 Question:
@@ -30,7 +29,7 @@ My Answer: Default constructor.
 
 Notes:
 
-Default constructor is invoked when no arguments are provided.
+* Default constructor is invoked when no arguments are provided.
 
 ### Q3. SQL JOIN
 Question:
@@ -40,7 +39,7 @@ My Answer: INNER JOIN.
 
 Notes:
 
-INNER JOIN returns only rows satisfying the join condition.
+* INNER JOIN returns only rows satisfying the join condition.
 
 ### Q4. Encapsulation
 Question:
@@ -50,7 +49,7 @@ My Answer: Public variables.
 
 Notes:
 
-Public data members expose internal state directly.
+* Public data members expose internal state directly.
 
 ### Q5. Accessing Private Members
 
@@ -60,7 +59,7 @@ My Answer: Uncertain.
 
 Notes:
 
-Review how private members are accessed through public member functions (or friend functions/classes where applicable).
+* Review how private members are accessed through public member functions (or friend functions/classes where applicable).
 
 ### Q6. Referential Integrity
 
@@ -70,7 +69,7 @@ My Answer: Incorrect.
 
 Notes:
 
-A child table's foreign key references the primary key of the parent table.
+* A child table's foreign key references the primary key of the parent table.
 
 ### Q7. Normal Forms
 
@@ -80,7 +79,7 @@ My Answer: Uncertain.
 
 Notes:
 
-Revise 1NF, 2NF, 3NF, 4NF, and 5NF thoroughly.
+* Revise 1NF, 2NF, 3NF, 4NF, and 5NF thoroughly.
 
 ### Q8. Passing Objects by Reference
 Question:
@@ -90,9 +89,8 @@ My Answer: It is not called when the function returns.
 
 Notes:
 
-Passing by reference does not create a copy.
-
-Destructor runs only when the original object's lifetime ends.
+* Passing by reference does not create a copy.
+* Destructor runs only when the original object's lifetime ends.
 
 ### Q9. Polymorphism
 
@@ -102,7 +100,7 @@ My Answer: Uncertain.
 
 Notes:
 
-Revise runtime polymorphism and inheritance hierarchies.
+* Revise runtime polymorphism and inheritance hierarchies.
 
 ### Q10. Indexed Data Structure
 Question:
@@ -112,7 +110,7 @@ My Answer: Array.
 
 Notes:
 
-Arrays provide O(1) indexed access.
+* Arrays provide O(1) indexed access.
 
 ### Q11. Heap
 Question:
@@ -122,7 +120,7 @@ My Answer: Priority Queue.
 
 Notes:
 
-Binary heaps are the standard implementation for priority queues.
+* Binary heaps are the standard implementation for priority queues.
 
 ### Q12. Max Heap
 Question:
@@ -132,7 +130,7 @@ My Answer: Root node.
 
 Notes:
 
-Root always contains the maximum value.
+* Root always contains the maximum value.
 
 ### Q13. Hash Map
 Question:
@@ -142,9 +140,8 @@ My Answer: O(1).
 
 Notes:
 
-Average-case search, insertion, and deletion are O(1).
-
-Worst case is O(n).
+* Average-case search, insertion, and deletion are O(1).
+* Worst case is O(n).
 
 ### Q14. Polymorphism
 Question: 
@@ -154,7 +151,7 @@ My Answer: Option related to additional implementation overhead.
 
 Notes:
 
-Revise characteristics and advantages of polymorphism.
+* Revise characteristics and advantages of polymorphism.
 
 ### Q15. Binary Tree Traversal
 Question:
@@ -164,7 +161,7 @@ My Answer: Postorder Traversal.
 
 Notes:
 
-Left → Right → Root.
+* Left → Right → Root.
 
 ### Q16. Object Storage
 Question: 
@@ -174,7 +171,7 @@ My Answer: RAM.
 
 Notes:
 
-Objects exist in RAM (stack or heap depending on allocation).
+* Objects exist in RAM (stack or heap depending on allocation).
 
 ### Q17. Destructor Order
 Question:
@@ -184,7 +181,7 @@ My Answer: C → B → A.
 
 Notes:
 
-Destruction happens in the reverse order of construction.
+* Destruction happens in the reverse order of construction.
 
 ### Q18. Binary Tree
 Question:
@@ -194,7 +191,7 @@ My Answer: 0, 1, or 2.
 
 Notes:
 
-A binary tree allows at most two children.
+* A binary tree allows at most two children.
 
 ### Q19. SQL
 Question:
@@ -204,11 +201,11 @@ My Answer: DROP TABLE.
 
 Notes:
 
-DELETE removes rows.
+* DELETE removes rows.
 
-TRUNCATE removes all rows while preserving the table.
+* TRUNCATE removes all rows while preserving the table.
 
-DROP TABLE removes the table itself.
+* DROP TABLE removes the table itself.
 
 ## Overall Takeaways
 
