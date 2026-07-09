@@ -1,15 +1,14 @@
 # Tech Buzz – AI Automation & ML
 
-**Date:** 7 July 2026  
-**Role:** Internee  
-**Interview:** Technical  
-**No. of Questions:** 15  
-**Duration:** 20 minutes  
-**Difficulty:** Medium
+Date: 7 July 2026  
+Role: Internee  
+Interview: Technical  
+No. of Questions: 15  
+Duration: 20 minutes  
+Difficulty: Medium
 
----
 
-# Part A — Resume Analysis
+### Part A — Resume Analysis
 
 #### Q1. Introduction
 
@@ -45,7 +44,7 @@
 
 ---
 
-# Part B — AI & System Design
+### Part B — AI & System Design
 
 #### Q6. What is the difference between AI, Machine Learning, Generative AI, and Prompt Engineering?
 
@@ -94,7 +93,7 @@ Explain your proposed workflow.
 
 ---
 
-# Part C — OOP & DSA
+### Part C — OOP & DSA
 
 #### Q10. What is OOP?
 
@@ -158,26 +157,22 @@ Move all the zeros to the right side.
 
 ---
 
-# Overall Takeaways
+## Overall Takeaways
 
-##  What Went Well
+What Went Well:
 
 - Programming / DSA portion
 - OOP fundamentals
 - Problem-solving approach
 
----
-
-##  What to Improve
+What to Improve:
 
 - Defending every point on your resume
 - Tailor your resume according to the role instead of using the same resume everywhere
 - Learn Webhooks and asynchronous AI workflows
 - Prepare common backend/API interview questions
 
----
-
-# Preparation Tips
+Preparation Tips:
 
 - **90-Minute OOP Course** — freeCodeCamp.org
 - **Linked List Questions** — GeeksforGeeks
