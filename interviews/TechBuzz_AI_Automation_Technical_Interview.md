@@ -1,26 +1,27 @@
 # Tech Buzz – AI Automation & ML
 
-Date: 7 July 2026  
-Role: Internee  
-Interview: Technical  
-No. of Questions: 15  
-Duration: 20 minutes  
-Difficulty: Medium
+Date: 7 July 2026  <br>
+Role: Internee   <br>
+Interview: Technical   <br>
+No. of Questions: 15   <br>
+Duration: 20 minutes  <br>
+Difficulty: Medium <br>
 
 
 ### Part A — Resume Analysis
 
-#### Q1. Introduction
+### Q1. 
+Question: Introduction
 
----
 
-#### Q2. Which is your favorite project? Explain it briefly.
+### Q2. 
+Question: Which is your favorite project? Explain it briefly.
 
----
 
-#### Q3. You know the MERN Stack too (based on your resume). Explain the HTTP methods used for API operations.
+### Q3. 
+Question: You know the MERN Stack too (based on your resume). Explain the HTTP methods used for API operations.
 
-**My Answer:**
+My Answer:
 - GET
 - POST
 - DELETE
@@ -29,15 +30,15 @@ Difficulty: Medium
 > - PUT
 > - PATCH
 
----
 
-#### Q4. You mentioned integrating LLMs. Explain how you integrated them.
+### Q4. 
+Question: You mentioned integrating LLMs. Explain how you integrated them.
 
 - ✅ Answered
 
----
 
-#### Q5. Most of your experience seems to be in Web Development. Why are you applying for an AI internship?
+### Q5. 
+Question: Most of your experience seems to be in Web Development. Why are you applying for an AI internship?
 
 
 -  Yapped
@@ -46,38 +47,39 @@ Difficulty: Medium
 
 ### Part B — AI & System Design
 
-#### Q6. What is the difference between AI, Machine Learning, Generative AI, and Prompt Engineering?
+### Q6. 
+Question: What is the difference between AI, Machine Learning, Generative AI, and Prompt Engineering?
 
 - ✅ Answered
 
----
 
-#### Q7. Do you know what APIs and Webhooks are?
+### Q7. 
+Question: Do you know what APIs and Webhooks are?
 
-**My Answer:**
+My Answer:
 - Explained APIs only.
 
----
 
-#### Q8. Suppose a user requests AI-generated content through your application, but the LLM/API fails. What strategy would you use?
+### Q8. 
+Question: Suppose a user requests AI-generated content through your application, but the LLM/API fails. What strategy would you use?
 
-**My Answer:**
+My Answer:
 - Initialize a timeout.
 
-#### Follow-up
+ **Follow-up**
 
 > Content generation may take a few seconds for some requests but up to **30 minutes** for others.
->
+
 > Wouldn't your timeout strategy fail?
 
-**My Answer:**
+My Answer:
 -  No answer
 
----
 
-#### Q9. Imagine a client wants AI automation for an e-commerce website.
+### Q9. 
+Question: Imagine a client wants AI automation for an e-commerce website.
 
-### Requirement
+Requirement:
 
 When a customer places an order:
 
@@ -88,59 +90,59 @@ When a customer places an order:
 
 Explain your proposed workflow.
 
-**My Answer:**
+My Answer:
 - Yapped
 
 ---
 
 ### Part C — OOP & DSA
 
-#### Q10. What is OOP?
+### Q10. 
+Question: What is OOP?
 
 Explain its four pillars.
 
 - ✅ Answered
 
----
 
-#### Q11. Can you find an example of Abstraction in this room?
+### Q11. 
+Question: Can you find an example of Abstraction in this room?
 
-**My Answer:**
+My Answer:
 
-> The switch behind you.
->
-> I simply press the switch and the fan starts rotating.
-> I don't know what happens internally—that complexity is hidden from me.
+The switch behind you.
+I simply press the switch and the fan starts rotating.
+I don't know what happens internally—that complexity is hidden from me.
 
 **Interviewer Response:**
 -  Appreciated
 
----
 
-#### Q12. Do you know about the Diamond Problem?
+### Q12. 
+Question: Do you know about the Diamond Problem?
 
-**My Answer:**
+My Answer:
 - No
 
----
 
-#### Q13. What topics did you study in DSA?
+### Q13. 
+Question: What topics did you study in DSA?
 
 - Types of Linked Lists
 - What happens in a Circular Linked List?
 
-**My Answer:**
+My Answer:
 - Answered
 
----
 
-#### Q14. How do you insert a node at the end of a Linked List?
+### Q14. 
+Question: How do you insert a node at the end of a Linked List?
 
 - ✅ Explained
 
----
 
-#### Q15. Pseudocode Question
+### Q15. 
+Question: Pseudocode Question
 
 Given the array:
 
@@ -150,7 +152,7 @@ Given the array:
 
 Move all the zeros to the right side.
 
-**My Answer:**
+My Answer:
 
 - Solution using an extra vector
 - Optimal in-place swapping approach (after interviewer requested a better solution)
