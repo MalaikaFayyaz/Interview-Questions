@@ -8,7 +8,7 @@ Instead of wondering what an interview might look like, students can learn from 
 
 > **This repository is built on shared experiences, not memorized answers.** Use these contributions to prepare, understand expectations, and improve your own responses.
 
----
+<br>
 
 ### 📚 Repository Structure
 
@@ -32,7 +32,7 @@ Interview-Questions/
      └── ...
 ```
 
----
+<br>
 
 ### 🤝 Contributing
 
@@ -52,7 +52,7 @@ That's it!
 
 Even a single interview experience can help someone else prepare.
 
----
+<br>
 
 ### 📌 Contribution Guidelines
 
@@ -71,7 +71,7 @@ Please **do not**:
 * Include personal or sensitive information about interviewers or other candidates.
 * Copy content from paid interview-preparation platforms.
 
----
+<br>
 
 ### 💡 Why This Repository?
 
@@ -85,7 +85,8 @@ By sharing interview experiences, we can build a resource that helps students:
 * Prepare more effectively.
 * Reduce unnecessary anxiety before interviews.
 
----
+
+<br>
 
 ### ⭐ Support the Project
 
